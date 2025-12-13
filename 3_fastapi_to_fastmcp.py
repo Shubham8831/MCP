@@ -1,3 +1,5 @@
+# FastMCP <=> FastAPI
+
 # we can easily convert fast api to a fast mcp
 from fastmcp import FastMCP
 from main import app # this is the fastapi app

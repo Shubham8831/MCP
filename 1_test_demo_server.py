@@ -1,3 +1,5 @@
+#demo LOCAL MCP SERVER
+
 import random
 from fastmcp import FastMCP
 

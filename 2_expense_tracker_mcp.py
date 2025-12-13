@@ -1,3 +1,5 @@
+#made a LOCAL MCP SERVER
+
 from fastmcp import FastMCP
 import os
 import sqlite3
