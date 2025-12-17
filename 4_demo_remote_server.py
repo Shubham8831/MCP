@@ -38,3 +38,6 @@ def server_information()-> str:
 if __name__=="__main__":
     mcp.run(transport="http", host = "0.0.0.0", port=8000)
     # mcp.run() is for transport stdio and now we set it as http for remote mcp server
+
+
+    # Deploy on FastMCP cloud and open add add custom connectors in claude desktop (no in free plan) :/
