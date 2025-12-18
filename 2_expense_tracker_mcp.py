@@ -87,3 +87,8 @@ def categories():
 
 if __name__ == "__main__":
     mcp.run()
+
+
+
+
+# we will also use it in mcp client (adding expense tracker as local server)
